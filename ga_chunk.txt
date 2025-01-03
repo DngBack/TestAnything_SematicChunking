@@ -1,0 +1,110 @@
+Value Node 0
+I. NỘI DUNG QUẢN LÝ THIẾT BỊ 1. Người phụ trách
+1.1. Văn phòng Hà Nội:
++ Thiết bị làm việc:
+Ms. Trần Phương Thảo
+Ms. Nguyễn Thị Thùy Linh C
++ Thiết bị văn phòng:
+Ms. Nguyễn Thị Thanh Hoa B
+1.2. Văn phòng Đà Nẵng:
+Ms. Hồ Thị Thu Hiền B
+Ms. Lê Thị Đăng Phúc
+1.3. Văn phòng Hồ Chí Minh:
+Ms. Huỳnh Ngọc Thảo Vy 2. Tài liệu liên quan: Hệ thống ASSET quản lý thiết bị: https://asset.sun-asterisk.vn/
+Hướng dẫn sử dụng ASSET:
+[S_Asset] Hướng dẫn sử dụng cho FCOV Manager và FCOV Staff.pdf
+Quy định về việc sử dụng tài sản và xử lý mất hỏng tài sản công ty:
+[SHN_2024] QUY ĐỊNH VỀ VIỆC SỬ DỤNG TÀI SẢN VÀ XỬ LÝ MẤT, HỎNG T…
+Tiêu chuẩn cấp phát thiết bị: [SHN_2024] TIÊU CHUẨN CẤP THIẾT BỊ 2024 .docx 3.Quy trình cấp phát, thu hồi thiết bị:
+3.1 Quy trình cấp phát thiết bị: - Nhân viên mới: GA cấp phát máy theo Tiêu chuẩn thiết bị vào ngày onboard
+- Nhân viên nghỉ sinh/ không lương comeback: Nhân viên tạo request, GA cấp máy theo tiêu chuẩn/ dựa vào request
+- Đối với trường hợp cần sử dụng thêm thiết bị để phục vụ công việc:
+● Nhân viên có yêu cầu cấp phát thiết bị, tài sản phục vụ công việc, cần tạo yêu cầu thiết bị, tài sản trên hệ thống ASSET. Yêu cầu sau khi tạo sẽ được chuyển tiếp lên các cấp quản lý.
+● Sau khi được Trưởng ban và Trưởng phòng phê duyệt, yêu cầu sẽ được chuyển tới FCOV Unit (Người phụ trách, Trưởng phòng Hành chính, Trưởng ban Vận hành hoạt động nền tảng doanh nghiệp). Trưởng ban Vận hành hoạt động nền tảng doanh nghiệp (Ms. NgocNTM) ở bước phê duyệt cuối sẽ xem xét và chuyển các yêu cầu đó tới người phụ trách tương ứng. Sau khi yêu cầu được Ms. NgocNTM xác nhận, người phụ trách sẽ tiến hành xử lý cấp phát
+● Nhân viên nhận thiết bị và ký nhận tại khu vực làm việc của người phụ trách quản lý thiết bị 3.2. Quy trình thu hồi thiết bị: - Nhân viên nghỉ việc/ thai sản/ không lương bàn giao toàn bộ thiết bị làm việc, thẻ xe, thẻ nhân viên muộn nhất vào ngày làm việc cuối cùng tại Sun*
+- Trường hợp nghỉ thai sản/ không lương muốn giữ lại thiết bị phải tạo Request trên Asset và được PSM/UM xác nhận
+- Với những thiết bị nhân viên không có nhu cầu sử dụng sẽ trả thiết bị và ký trả trực tiếp tại khu vực làm việc của người phụ trách quản lý thiết bị II. NỘI DUNG ĐĂNG KÝ VĂN PHÒNG PHẨM (VPP) 1. Người phụ trách:
+1.1 Văn phòng Hà Nội
+Võ Nguyệt Anh (vo.nguyet.anh@sun-asterisk.com)
+1.2 Văn phòng Đà Nẵng
+Nguyễn Thị Thiên Ân B (nguyen.thi.thien.an-b@sun-asterisk.com)
+1.3 Văn phòng Hồ Chí Minh
+Huỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com)
+2. Request VPP tại form:
+VP Hà Nội: https://sal.vn/Y9Huy4
+VP Đà Nẵng: https://sal.vn/vJ6sXO
+VP HCM: https://sal.vn/PtYb84
+3. Thời gian xử lý VPP:
++ Các request trước 14:00 thứ 4 hàng tuần sẽ nhận hàng vào thứ 6 hàng tuần
++ Các request sau 14:00 thứ 4 - trước 17:00 thứ 6 hàng tuần sẽ nhận hàng vào thứ 3 tuần kế tiếp
+4. Danh mục đăng ký VPP
+https://sal.vn/pOKubt III. NỘI DUNG ĐĂNG KÝ IN ẤN 1. Người phụ trách: 1.1 VP Hà Nội: Phạm Ngọc Phương (pham.ngoc.phuong@sun-asterisk.com)
+1.2 VP Đà Nẵng: Nguyễn Thị Thiên Ân B (nguyen.thi.thien.an-b@sun-asterisk.com)
+1.3 VP Hồ Chí Minh: Huỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com) 2. In danh thiếp Đối tượng áp dụng in danh thiếp
+Chỉ áp dụng in danh thiếp cho các đối tượng:
+Ban lãnh đạo Công ty (BOD)
+Trưởng ban (UM)
+Trưởng phòng (LM)
+Quản lý dự án (PSM)
+Bên cạnh những đối tượng nêu trên, những nhân viên phải làm việc thường xuyên với khách hàng có thể yêu cầu in danh thiếp, tuy nhiên phải có yêu cầu từ người quản lý trực tiếp (UM/LM/PSM) của nhân viên đó. Form đăng ký:
+VP Hà Nội: https://sal.vn/WG9H9A
+
+Value Node 1
+VP Đà Nẵng: https://sal.vn/PNSnIn
+VP Hồ Chí Minh: https://sal.vn/zvt0ew IV. NỘI DUNG ĐĂNG KÝ THẺ TAXI 1. Người phụ trách 1.1 VP Hà Nội: Nguyễn Thị Thanh Hoa B (nguyen.thi.thanh.hoa-b@sun-asterisk.com)
+1.2 VP Đà Nẵng: Nguyễn Thị Thiên Ân B (nguyen.thi.thien.an-b@sun-asterisk.com)
+1.3 VP Hồ Chí Minh: Vũ Bích Thiên Kim (vu.bich.thien.kim@sun-asterisk.com) 2. Request thẻ taxi tại form: Văn phòng Hà Nội: https://sal.vn/WG9H9A
+Văn phòng Đà Nẵng: https://sal.vn/sXODWj
+Văn phòng Hồ Chí Minh: https://sal.vn/sWG26K V. NỘI DUNG ĐĂNG KÝ CHUYỂN PHÁT NHANH
+
+Value Node 2
+1. Người phụ trách VP Hà Nội: Ms. Nguyễn Phương Trinh (nguyen.phuong.trinh@sun-asterisk.com)
+VP Đà Nẵng: Ms. Nguyễn Thị Thiên Ân (nguyen.thi.thien.an-b@sun-asterisk.com)
+VP HCM: Ms. Huỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com) 2. Request CPN tại form: VP HN: https://sal.vn/Y9Huy4
+VP ĐN: https://sal.vn/114B5k
+VP HCM: Nhu cầu chỉ đến từ bộ phận GA và C&B, nên để tiết kiệm thời gian chưa cần tạo form yêu cầu mà GA sẽ nhận bưu kiện trực tiếp từ nhân viên có nhu cầu, biên lai sẽ được thu lại để đối chiếu. 3. Thời gian nhận:
+Thư/bưu kiện gửi đến Phòng Hành chính trước 15:30 thì sẽ được gửi luôn trong ngày, trường hợp thư được gửi đến Phòng Hành chính muộn hơn khung giờ nêu trên, thư sẽ được chuyển đi vào ngày làm việc kế tiếp. VI. NỘI DUNG QUẢN LÝ THẺ XE 1. Người phụ trách 1.1 VP Hà Nội: Nguyễn Thị Thanh Hoa B (nguyen.thi.thanh.hoa-b@sun-asterisk.com)
+1.2 VP Đà Nẵng: Ms. Hồ Thị Thu Hiền B / Ms. Lê Thị Đăng Phúc
+1.3 VP Hồ Chí Minh: Huỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com) 2. Quản lý thẻ xe - Khi cần làm mới/ thay đổi thông tin xe, CBNV cần đăng ký các thông tin yêu cầu theo biểu mẫu: + KNE - HN: https://sal.vn/Y9Huy4
++ L’Mak - HCM : https://sal.vn/55uOXp
++ Fhome building - ĐN: https://sal.vn/WTXZIq - Khi NV làm mất/hỏng thẻ xe, vui lòng liên hệ người phụ trách và nộp phạt theo quy định của tòa nhà: + KNE - HN: Mất: 300.000đ/thẻ ; Hỏng: 50.000đ/thẻ
++ L’Mak - HCM : Mất: 100.000đ/thẻ
++ Fhome building - ĐN: Mất/Hỏng: 50.000đ/thẻ - Câu hỏi: sau khi đăng kí thì khi nào tôi có thể nhận thẻ xe? Trả lời: Quy trình đăng kí được xử lí trong 1-2 ngày làm việc. Sau thời gian trên, nhân viên chủ động liên hệ lại người phụ trách nếu chưa nhận được thông báo nhận thẻ. VII. NỘI DUNG ĐĂNG KÝ THẺ KHÁCH
+
+Value Node 3
+1. Người phụ trách 1.1 VP Hà Nội: Nguyễn Thị Thanh Hoa B (nguyen.thi.thanh.hoa-b@sun-asterisk.com)
+1.2 VP Đà Nẵng: Nguyễn Thị Thiên Ân B (nguyen.thi.thien.an-b@sun-asterisk.com)
+1.3 VP Hồ Chí Minh: Huỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com) 2. Request thẻ khách tại form: VP Hà Nội: https://sal.vn/RCWbHo
+VP Đà Nẵng: https: //sal.vn/CSIYYR
+VP Hồ Chí Minh: https: //sal.vn/lLluTJ 3. Có 2 loại thẻ khách: Thẻ VISITOR là thẻ dùng để nhận diện khách trong văn phòng, không thể mở ra vào cửa. Thẻ CUSTOMER là thẻ dùng cho khách làm việc nhiều ngày tại văn phòng, có thể quẹt mở cửa ra vào. VII. BẢO HIỂM SỨC KHỎE SUN*CARE
+
+Value Node 4
+Người phụ trách: - Văn phòng Hà Nội: Lương Thị Vân
+- Văn phòng Đà Nẵng: Nguyễn Thị Thiên Ân B
+- Văn phòng thành phố Hồ Chí Minh: Vũ Bích Thiên Kim 1. Đối tượng tham gia BHSK Sun*care dành cho nhân viên - Đối tượng tham gia bảo hiểm Sun*care bao gồm quyền lợi về tai nạn và sức khỏe : Người lao động ký hợp đồng lao động xác định thời hạn trên 03 tháng, hợp đồng không xác định thời hạn với Công ty.
+- Đối tượng tham gia bảo hiểm Sun*care chỉ với quyền lợi tai nạn: Người lao động ký hợp đồng lao động thời hạn từ dưới 3 tháng, người nước ngoài 2. Đối tượng tham gia BHSK Sun*care dành cho người thân nhân viên:
+- Gói người thân thâm niên: Người thân nhân viên thâm niên: 01 người thân của nhân viên thâm niên từ 05 năm trở lên trước ngày 01/01/2017.
+- Gói người thân tự trả: Người thân nhân viên 3. Các mức bảo hiểm BHSK Sun*care: - Nhóm quản lý cấp cao: dành cho Giám Đốc, Trưởng Ban
+- Nhóm quản lý và chuyên gia: dành cho Trưởng phòng, chuyên gia
+- Nhóm Chuyên viên
+- Nhóm nhân viên
+- Nhóm nhân viên ký hợp đồng lao động từ 03 tháng trở xuống và người nước ngoài 4. Quyền lợi, thời gian chờ, danh sách bệnh viện black list BHSK Sun*care 2024: - Quyền lợi nhóm quản lý cấp cao Head/ Unit manager: https://sal.vn/0AWTDw
+- Quyền lợi nhóm nhân viên ký hợp đồng lao động từ 03 tháng trở xuống và người nước ngoài Expat: https://sal.vn/bPKfRY
+- Quyền lợi nhóm Line manager/ Expert: https://sal.vn/T2d84A
+- Quyền lợi nhóm Senior: https://sal.vn/r6KU2T
+- Quyền lợi nhóm Staff: https://sal.vn/QmtCDn
+- Quyền lợi người thân thâm niên: https://sal.vn/DzquVV
+- Quyền lợi người thân tự trả: https://sal.vn/C2eR6R
+- Danh sách bệnh viện bảo lãnh trực tiếp: https://sal.vn/G3H37C 5. Ứng dụng BHSK Sun*care
+- Ứng dụng: PTICare 6. Hướng dẫn yêu cầu bồi thường hồ sơ bảo hiểm sức khỏe Sun*care:
+- Link hướng dẫn: https: //sal.vn/H5ioEt 7. Thời gian giải quyết hồ sơ BHSK Sun*care - Với số tiền yêu cầu bồi thường dưới 20.000.000VND : Từ 05 - 07 ngày làm việc
+- Với số tiền từ 20.000.000 VND đến 100.000.000 VND: từ 10 - 15 ngày làm việc
+- Với số tiền trên 100.000.000 VND: Từ 15 - 20 ngày làm việc 8. Câu hỏi thường gặp: https://sal.vn/XAmBJr IX. CHƯƠNG TRÌNH HỖ TRỢ NHÂN VIÊN - EMPLOYEE ASSISTANCE PROGRAM (EAP) 1. Người phụ trách: - Văn phòng Hà Nội: Lương Thị Vân
+- Văn phòng Đà Nẵng: Nguyễn Thị Thiên Ân B
+- Văn phòng thành phố Hồ Chí Minh: Vũ Bích Thiên Kim 2. Đối tượng tham gia chương trình hỗ trợ nhân viên - EAP - Toàn bộ Người lao động ký hợp đồng lao động với công ty
+- Tối đa 5 người thân Người lao động ký hợp đồng lao động với công ty (bố/mẹ, vợ/chồng, con cái, không bao gồm anh/chị/em). 3. Quyền lợi chương trình hỗ trợ nhân viên - EAP - Tư vấn tâm lý 1:1 qua điện thoại hoặc video trực tuyến theo lịch hẹn từ 8 giờ đến 18 giờ hàng ngày từ thứ Hai đến thứ Sáu theo giờ Việt Nam
+- Tối đa 5 buổi tư vấn (thời lượng mỗi buổi là 60 phút) đối với mỗi vấn đề người lao động đang gặp phải như: áp lực công việc, lo âu, mất cân bằng cuộc sống, các mối quan hệ xã hội/gia đình, nuôi dạy con cái, …
+- Người lao động có quyền truy cập vào các Hội thảo trực tuyến (thời lượng trung bình là 60 phút) qua nền tảng EAP 4. Ứng dụng chương trình hỗ trợ nhân viên - EAP
+- Ứng dụng: Telus Health One 5. Hình thức tư vấn:
+- Gọi điện thoại: 6. Đặt lịch tư vấn chương trình hỗ trợ nhân viên - EAP - Đặt lịch tư vấn qua hotline: 1800 - 1798, cung cấp tên công ty: Sun Asterisk Việt Nam và cung cấp thông tin về chủ đề, thời gian, lựa chọn hình thức tư vấn
+
