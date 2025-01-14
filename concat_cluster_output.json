@@ -1,0 +1,480 @@
+{
+    "clusters": [
+        {
+            "id": 11,
+            "label": "Text",
+            "bbox": [
+                525.1640625,
+                64.7841796875,
+                745.59375,
+                104.2822265625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "developing a simple and versatile RNA-directed system to generate dsDNA breaks for genome targeting and editing.",
+            "content_raw": "",
+            "reading_order": "page_0_0",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 0,
+            "label": "SectionHeader",
+            "bbox": [
+                47.1796875,
+                92.28515625,
+                477.984375,
+                192.19921875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+            "content_raw": "",
+            "reading_order": "page_0_1",
+            "page_no": 0,
+            "next_id": 12
+        },
+        {
+            "id": 12,
+            "label": "Text",
+            "bbox": [
+                521.296875,
+                107.666015625,
+                747.9140625,
+                608.34375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Cas9 is a DNA endonuclease guided by two RNAs. Cas9, the hallmark protein of type II systems, has been hypothesized to be involved in both crRNA maturation and crRNA-guided DNA interference (fig. S1) ( 4 , 25 -27 ). Cas9 is involved in crRNA maturation ( 4 ), but its direct participation in target DNA destruction has not been investigated. To test whether and how Cas9 might be capable of target DNA cleavage, we used an overexpression system to purify Cas9 protein derived from the pathogen Streptococcus pyogenes (fig. S2, see supplementary materials and methods) and tested its ability to cleave a plasmid DNA or an oligonucleotide duplex bearing a protospacer sequence complementary to a mature crRNA, and a bona fide PAM. We found that mature crRNA alone was incapable of directing Cas9-catalyzed plasmid DNA cleavage (Fig. 1A and fig. S3A). However, addition of tracrRNA, which can pair with the repeat sequence of crRNA and is essential to crRNA maturation in this system,triggeredCas9tocleaveplasmidDNA(Fig. 1A and fig. S3A). The cleavage reaction required both magnesium and the presence of a crRNA sequence complementary to the DNA; a crRNA capable of tracrRNA base pairing but containing a noncognate target DNA-binding sequence did not support Cas9-catalyzed plasmid cleavage (Fig. 1A; fig. S3A, compare crRNA-sp2 to crRNA-sp1; and fig. S4A). We obtained similar results with a short linear dsDNA substrate (Fig. 1B and fig. S3, B and C). Thus, the trans-activating tracrRNA is a small noncoding RNA with two critical functions: triggering pre-crRNA processing by the enzyme RNase III ( 4 ) and subsequently activating crRNA-guided DNA cleavage by Cas9.",
+            "content_raw": "",
+            "reading_order": "page_0_2",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 1,
+            "label": "Text",
+            "bbox": [
+                47.0830078125,
+                202.53515625,
+                405.66796875,
+                230.8359375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Martin Jinek,1,2* Krzysztof Chylinski,3,4* Ines Fonfara,4 Michael Hauer,2Ã¢â‚¬Â  Jennifer A. Doudna, 1, 2, 5,6Ã¢â‚¬Â¡Emmanuelle Charpentier4Ã¢â‚¬Â¡",
+            "content_raw": "",
+            "reading_order": "page_0_3",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 2,
+            "label": "Text",
+            "bbox": [
+                46.40625,
+                248.30859375,
+                508.1484375,
+                399.90234375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated (Cas) systems provide bacteria and archaea with adaptive immunity against viruses and plasmids by using CRISPR RNAs (crRNAs) to guide the silencing of invading nucleic acids. We show here that in a subset of these systems, the mature crRNA that is base-paired to trans-activating crRNA (tracrRNA) forms a two-RNA structure that directs the CRISPR-associated protein Cas9 to introduce double-stranded (ds) breaks in target DNA. At sites complementary to the crRNA-guide sequence, the Cas9 HNH nuclease domain cleaves the complementary strand, whereas the Cas9 RuvC-like domain cleaves the noncomplementary strand. The dual-tracrRNA:crRNA, when engineered as a single RNA chimera, also directs sequence-specific Cas9 dsDNA cleavage. Our study reveals a family of endonucleases that use dual-RNAs for site-specific DNA cleavage and highlights the potential to exploit the system for RNA-programmable genome editing.",
+            "content_raw": "",
+            "reading_order": "page_0_4",
+            "page_no": 0,
+            "next_id": 3
+        },
+        {
+            "id": 3,
+            "label": "Text",
+            "bbox": [
+                46.986328125,
+                425.7421875,
+                271.4765625,
+                730.8984375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Bacteria and archaea have evolved RNAmediated adaptive defense systems called clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated (Cas) that protect organisms from invading viruses and plasmids ( 1 -3 ). These defense systems rely on small RNAs for sequence-specific detection and silencing of foreign nucleic acids. CRISPR/Cas systems are composed of cas genes organized in operon(s) and CRISPR array(s) consisting of genome-targeting sequences (called spacers) interspersed with identical repeats ( 1 -3 ). CRISPR/Cas-mediated immunity occurs in three steps. In the adaptive phase, bacteria and archaea harboring one or more CRISPR loci respond to viral or plasmid challenge by integrating short fragments of foreign sequence (protospacers) into the host chromosome at the proximal end of the CRISPR array ( 1 -3 ). In the expression and interference phases, transcription of the repeatspacer element into precursor CRISPR RNA (pre-crRNA) molecules followed by enzymatic",
+            "content_raw": "",
+            "reading_order": "page_0_6",
+            "page_no": 0,
+            "next_id": 8
+        },
+        {
+            "id": 8,
+            "label": "Text",
+            "bbox": [
+                284.23828125,
+                428.44921875,
+                509.30859375,
+                523.6875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "cleavage yields the short crRNAs that can pair with complementary protospacer sequences of invading viral or plasmid targets ( 4 -11 ). Target recognition by crRNAs directs the silencing of the foreign sequences by means of Cas proteins that function in complex with the crRNAs (10, 12-20).",
+            "content_raw": "",
+            "reading_order": "page_0_7",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 9,
+            "label": "Text",
+            "bbox": [
+                285.3984375,
+                526.1484375,
+                508.921875,
+                760.4296875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "There are three types of CRISPR/Cas systems ( 21 -23 ). The type I and III systems share some overarching features: specialized Cas endonucleases process the pre-crRNAs, and once mature, each crRNA assembles into a large multi-Cas protein complex capable of recognizing and cleaving nucleic acids complementary to the crRNA. In contrast, type II systems process precrRNAs by a different mechanism in which a trans-activating crRNA (tracrRNA) complementary to the repeat sequences in pre-crRNA triggers processing by the double-stranded (ds) RNAspecific ribonuclease RNase III in the presence of the Cas9 (formerly Csn1) protein (fig. S1) ( 4 , 24 ). Cas9 is thought to be the sole protein responsible for crRNA-guided silencing of foreign DNA ( 25 -27 ).",
+            "content_raw": "",
+            "reading_order": "page_0_8",
+            "page_no": 0,
+            "next_id": 13
+        },
+        {
+            "id": 13,
+            "label": "Text",
+            "bbox": [
+                524.390625,
+                606.8671875,
+                747.140625,
+                954.3515625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Cleavage of both plasmid and short linear dsDNA by tracrRNA:crRNA-guided Cas9 is sitespecific (Fig. 1, C to E, and fig. S5, A and B). Plasmid DNA cleavage produced blunt ends at a position three base pairs upstream of the PAM sequence (Fig. 1, C and E, and fig. S5, A and C) ( 26 ). Similarly, within short dsDNA duplexes, the DNA strand that is complementary to the target-binding sequence in the crRNA (the complementary strand) is cleaved at a site three base pairs upstream of the PAM (Fig. 1, D and E, and fig. S5, B and C). The noncomplementary DNA strand is cleaved at one or more sites within three to eight base pairs upstream of the PAM. Further investigation revealed that the noncomplementary strand is first cleaved endonucleolytically and subsequently trimmed by a 3 ' -5 ' exonuclease activity (fig. S4B). The cleavage rates by Cas9 under single-turnover conditions ranged from 0.3 to 1min -1 , comparable to those of restriction endonucleases (fig. S6A), whereas incubation of wildtype (WT) Cas9-tracrRNA:crRNA complex with a fivefold molar excess of substrate DNA provided evidence that the dual-RNA -guided Cas9 is a multiple-turnover enzyme (fig. S6B). In",
+            "content_raw": "",
+            "reading_order": "page_0_9",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 4,
+            "label": "Footnote",
+            "bbox": [
+                46.3095703125,
+                760.921875,
+                269.9296875,
+                884.953125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "1Howard Hughes Medical Institute (HHMI), University of California, Berkeley, CA 94720, USA. 2Department of Molecular and Cell Biology, University of California, Berkeley, CA 94720, USA. 3Max F. Perutz Laboratories (MFPL), University of Vienna, A-1030 Vienna, Austria. 4The Laboratory for Molecular Infection Medicine Sweden, UmeÃƒÂ¥ Centre for Microbial Research, Department of Molecular Biology, UmeÃƒÂ¥ University, S-90187 UmeÃƒÂ¥, Sweden. 5Department of Chemistry, University of California, Berkeley, CA 94720, USA. 6Physical Biosciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA.",
+            "content_raw": "",
+            "reading_order": "page_0_10",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 10,
+            "label": "Text",
+            "bbox": [
+                284.818359375,
+                763.3828125,
+                508.921875,
+                958.2890625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "We show here that in type II systems, Cas9 proteins constitute a family of enzymes that require a base-paired structure formed between the activating tracrRNA and the targeting crRNA to cleave target dsDNA. Site-specific cleavage occurs at locations determined by both base-pairing complementarity between the crRNA and the target protospacer DNA and a short motif [referred to as the protospacer adjacent motif (PAM)] juxtaposed to the complementary region in the target DNA. Our study further demonstrates that the Cas9 endonuclease family can be programmed with single RNA molecules to cleave specific DNA sites, thereby raising the exciting possibility of",
+            "content_raw": "",
+            "reading_order": "page_0_11",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 5,
+            "label": "Text",
+            "bbox": [
+                46.79296875,
+                891.3515625,
+                244.212890625,
+                904.1484375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "*These authors contributed equally to this work",
+            "content_raw": "",
+            "reading_order": "page_0_12",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 6,
+            "label": "Footnote",
+            "bbox": [
+                46.1162109375,
+                904.1484375,
+                268.76953125,
+                923.8359375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Ã¢â‚¬Â Present address: Friedrich Miescher Institute for Biomedical Research, 4058 Basel, Switzerland",
+            "content_raw": "",
+            "reading_order": "page_0_13",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 7,
+            "label": "Footnote",
+            "bbox": [
+                46.3095703125,
+                923.8359375,
+                268.76953125,
+                956.3203125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Ã¢â‚¬Â¡To whom correspondence should be addressed. E-mail: doudna@berkeley.edu (J.A.D.); emmanuelle.charpentier@mims.umu.se (E.C.)",
+            "content_raw": "",
+            "reading_order": "page_0_14",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 16,
+            "label": "PageFooter",
+            "bbox": [
+                21.02783203125,
+                980.9296875,
+                45.6328125,
+                993.7265625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "816",
+            "content_raw": "",
+            "reading_order": "page_0_15",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 15,
+            "label": "PageFooter",
+            "bbox": [
+                215.595703125,
+                983.390625,
+                558.421875,
+                995.203125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "17 AUGUST 2012 VOL 337 SCIENCE www.sciencemag.org",
+            "content_raw": "",
+            "reading_order": "page_0_16",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 17,
+            "label": "PageHeader",
+            "bbox": [
+                633.05859375,
+                22.24072265625,
+                766.86328125,
+                40.2978515625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "RESEARCH ARTICLE",
+            "content_raw": "",
+            "reading_order": "page_1_0",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 18,
+            "label": "Figure",
+            "bbox": [
+                64.58203125,
+                52.91015625,
+                732.05859375,
+                459.45703125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "",
+            "content_raw": "fig 1",
+            "reading_order": "page_1_1",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 19,
+            "label": "Text",
+            "bbox": [
+                46.599609375,
+                471.26953125,
+                744.046875,
+                581.765625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "(nucleotides 4 to 89). The complex was incubated with double- or single-stranded DNAs harboring a sequence complementary to spacer 2 and a functional PAM (4). The complementary or noncomplementary strands of the DNA were 5Ã¢â‚¬Â²-radiolabeled and annealed with a nonlabeled partner strand. nt, nucleotides. See fig. S3, B and C. (C) Sequencing analysis of cleavage products from Fig. 1A. Termination of primer extension in the sequencing reaction indicates the position of the cleavage site. The 3Ã¢â‚¬Â² terminal A overhang (asterisks) is an artifact of the sequencing reaction. See fig. S5, A and C. (D) The cleavage products from Fig. 1B were analyzed alongside 5Ã¢â‚¬Â² end-labeled size markers derived from the complementary and noncomplementary strands of the target DNA duplex. M, marker; P, cleavage product. See fig. S5, B and C. (E) Schematic representation of tracrRNA, crRNA-sp2, and protospacer 2 DNA sequences. Regions of crRNA complementarity to tracrRNA (orange) and the protospacer DNA (yellow) are represented. The PAM sequence is shown in gray; cleavage sites mapped in (C) and (D) are represented by blue arrows (C), a red arrow [(D), complementary strand], and a red line [(D), noncomplementary strand]",
+            "content_raw": "",
+            "reading_order": "page_1_2",
+            "page_no": 1,
+            "next_id": 20
+        },
+        {
+            "id": 20,
+            "label": "Text",
+            "bbox": [
+                46.212890625,
+                608.34375,
+                270.509765625,
+                692.015625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "contrast to the CRISPR type I Cascade complex (18), Cas9 cleaves both linearized and supercoiled plasmids (Figs. 1A and 2A). Therefore, an invading plasmid can, in principle, be cleaved multiple times by Cas9 proteins programmed with different crRNAs",
+            "content_raw": "",
+            "reading_order": "page_1_3",
+            "page_no": 1,
+            "next_id": 21
+        },
+        {
+            "id": 22,
+            "label": "Figure",
+            "bbox": [
+                290.232421875,
+                609.328125,
+                740.953125,
+                794.390625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "",
+            "content_raw": "",
+            "reading_order": "page_1_4",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 21,
+            "label": "Text",
+            "bbox": [
+                46.79296875,
+                692.5078125,
+                270.31640625,
+                957.3046875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Each Cas9 nuclease domain cleaves one DNA strand. Cas9 contains domains homologous to both HNH and RuvC endonucleases (Fig. 2A and fig. S7) (21Ã¢â‚¬â€œ23, 27, 28). We designed and purified Cas9 variants containing inactivating point mutations in the catalytic residues of ither the HNH or RuvC-like domains (Fig. 2A and fig. S7) (23,         27). Incubation of these variant Cas9 proteins with native plasmid DNA showed that dual-RNAÃ¢â‚¬â€œguided mutant Cas9 proteins yielded nicked open circular plasmids, whereas the WT Cas9 protein-tracrRNA:crRNA complex produced a linear DNA product (Figs. 1A and 2A and figs. S3A and S8A). This result indicates that the Cas9 HNH and RuvC-like domains each cleave one plasmid DNA strand. To determine which strand of the target DNA is cleaved by each Cas9 catalytic domain, we incubated the mutant Cas9-tracrRNA:crRNA",
+            "content_raw": "",
+            "reading_order": "page_1_5",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 23,
+            "label": "Caption",
+            "bbox": [
+                284.23828125,
+                812.109375,
+                744.43359375,
+                878.0625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Fig. 2. Cas9 uses two nuclease domains to cleave the two strands in the target DNA. (A) (Top) Schematic representation of Cas9 domain structure showing the positions of domain mutations. D10A, Asp10Ã¢â€ â€™Ala10; H840A; His840Ã¢â€ â€™Ala840. (Bottom) Complexes of WT or nuclease mutant Cas9 proteins with tracrRNA: crRNA-sp2 were assayed for endonuclease activity as in Fig. 1A. (B) Complexes of WT Cas9 or nuclease domain mutants with tracrRNA and crRNA-sp2 were tested for activity as in Fig. 1B.",
+            "content_raw": "",
+            "reading_order": "page_1_6",
+            "page_no": 1,
+            "next_id": 24
+        },
+        {
+            "id": 24,
+            "label": "Text",
+            "bbox": [
+                283.46484375,
+                903.1640625,
+                507.76171875,
+                958.2890625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "complexes with short dsDNA substrates in which either the complementary or noncomplementary strand was radiolabeled at its 5Ã¢â‚¬Â² end. The resulting cleavage products indicated that the",
+            "content_raw": "",
+            "reading_order": "page_1_7",
+            "page_no": 1,
+            "next_id": 25
+        },
+        {
+            "id": 25,
+            "label": "Text",
+            "bbox": [
+                525.1640625,
+                903.1640625,
+                744.8203125,
+                954.3515625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Cas9 HNH domain cleaves the complementary DNA strand, whereas the Cas9 RuvC-like domain cleaves the noncomplementary DNA strand (Fig. 2B and fig. S8B).",
+            "content_raw": "",
+            "reading_order": "page_1_8",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 26,
+            "label": "PageFooter",
+            "bbox": [
+                223.13671875,
+                982.8984375,
+                571.18359375,
+                993.7265625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "www.sciencemag.org SCIENCE VOL 337 17 AUGUST 2012",
+            "content_raw": "",
+            "reading_order": "page_2_0",
+            "page_no": 2,
+            "next_id": null
+        },
+        {
+            "id": 27,
+            "label": "SectionHeader",
+            "bbox": [
+                23.58984375,
+                22.9482421875,
+                155.3642578125,
+                39.59033203125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "RESEARCH ARTICLE",
+            "content_raw": "",
+            "reading_order": "page_3_0",
+            "page_no": 3,
+            "next_id": 28
+        },
+        {
+            "id": 28,
+            "label": "Text",
+            "bbox": [
+                46.599609375,
+                52.171875,
+                272.056640625,
+                496.6171875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Dual-RNA requirements for target DNA binding and cleavage. tracrRNA might be required for target DNA binding and/or to stimulate the nuclease activity of Cas9 downstream of target recognition. To distinguish between these possibilities, we used an electrophoretic mobility shift assay to monitor target DNA binding by catalytically inactive Cas9 in the presence or absence of crRNA and/or tracrRNA. Addition of tracrRNA substantially enhanced target DNA binding by Cas9, whereas we observed little specific DNA binding with Cas9 alone or Cas9-crRNA (fig. S9). This indicates that tracrRNA is required for target DNA recognition, possibly by properly orienting the crRNA for interaction with the complementary strand of target DNA. The predicted tracrRNA:crRNA secondary structure includes base pairing between the 22 nucleotides at the 3Ã¢â‚¬Â² terminus of the crRNA and a segment near the 5Ã¢â‚¬Â² end of the mature tracrRNA (Fig. 1E). This interaction creates a structure in which the 5Ã¢â‚¬Â²-terminal 20 nucleotides of the crRNA, which vary in sequence in different crRNAs, are available for target DNA binding. The bulk of the tracrRNA downstream of the crRNA basepairing region is free to form additional RNA structure(s) and/or to interact with Cas9 or the target DNA site. To determine whether the entire length of the tracrRNA is necessary for sitespecific Cas9-catalyzed DNA cleavage, we tested Cas9-tracrRNA:crRNA complexes reconstituted using full-length mature (42-nucleotide) crRNA",
+            "content_raw": "",
+            "reading_order": "page_3_1",
+            "page_no": 3,
+            "next_id": null
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "clusters": [
+        {
+            "id": 0,
+            "label": "SectionHeader",
+            "bbox": [
+                92.581787109375,
+                106.99481201171875,
+                359.652099609375,
+                129.33966064453125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "I. NỘI DUNG QUẢN LÝ THIẾT BỊ",
+            "content_raw": "",
+            "reading_order": "page_0_0",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 1,
+            "label": "SectionHeader",
+            "bbox": [
+                92.3876953125,
+                158.0589599609375,
+                226.69921875,
+                178.0733642578125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "1. Người phụ trách",
+            "content_raw": "",
+            "reading_order": "page_0_1",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 2,
+            "label": "ListItem",
+            "bbox": [
+                99.2779541015625,
+                174.5091552734375,
+                296.572265625,
+                329.00390625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "1.1. Văn phòng Hà Nội:\n+ Thiết bị làm việc:\nMs. Trần Phương Thảo\nMs. Nguyễn Thị Thùy Linh C\n+ Thiết bị văn phòng:\nMs. Nguyễn Thị Thanh Hoa B\n1.2. Văn phòng Đà Nẵng:",
+            "content_raw": "",
+            "reading_order": "page_0_2",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 3,
+            "label": "Text",
+            "bbox": [
+                100.4425048828125,
+                333.664794921875,
+                303.5595703125,
+                397.820556640625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Ms. Hồ Thị Thu Hiền B\nMs. Lê Thị Đăng Phúc\n1.3. Văn phòng Hồ Chí Minh:\nMs. Huỳnh Ngọc Thảo Vy",
+            "content_raw": "",
+            "reading_order": "page_0_3",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 4,
+            "label": "SectionHeader",
+            "bbox": [
+                93.98895263671875,
+                435.3818359375,
+                232.1337890625,
+                455.67041015625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "2. Tài liệu liên quan:",
+            "content_raw": "",
+            "reading_order": "page_0_4",
+            "page_no": 0,
+            "next_id": 5
+        },
+        {
+            "id": 5,
+            "label": "Text",
+            "bbox": [
+                95.10498046875,
+                457.589599609375,
+                500.7568359375,
+                486.651611328125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Hệ thống ASSET quản lý thiết bị: https://asset.sun-asterisk.vn/",
+            "content_raw": "",
+            "reading_order": "page_0_5",
+            "page_no": 0,
+            "next_id": 6
+        },
+        {
+            "id": 6,
+            "label": "Text",
+            "bbox": [
+                95.54168701171875,
+                483.08740234375,
+                282.59765625,
+                503.3759765625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Hướng dẫn sử dụng ASSET:",
+            "content_raw": "",
+            "reading_order": "page_0_6",
+            "page_no": 0,
+            "next_id": 7
+        },
+        {
+            "id": 7,
+            "label": "Text",
+            "bbox": [
+                95.687255859375,
+                502.279296875,
+                576.8408203125,
+                522.56787109375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "[S_Asset] Hướng dẫn sử dụng cho FCOV Manager và FCOV Staff.pdf",
+            "content_raw": "",
+            "reading_order": "page_0_7",
+            "page_no": 0,
+            "next_id": 8
+        },
+        {
+            "id": 8,
+            "label": "Text",
+            "bbox": [
+                96.26953125,
+                525.3095703125,
+                526.76513671875,
+                545.59814453125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Quy định về việc sử dụng tài sản và xử lý mất hỏng tài sản công ty:",
+            "content_raw": "",
+            "reading_order": "page_0_8",
+            "page_no": 0,
+            "next_id": 9
+        },
+        {
+            "id": 9,
+            "label": "Text",
+            "bbox": [
+                96.075439453125,
+                543.953125,
+                697.177734375,
+                564.7900390625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "[SHN_2024] QUY ĐỊNH VỀ VIỆC SỬ DỤNG TÀI SẢN VÀ XỬ LÝ MẤT, HỎNG T…",
+            "content_raw": "",
+            "reading_order": "page_0_9",
+            "page_no": 0,
+            "next_id": 10
+        },
+        {
+            "id": 10,
+            "label": "Text",
+            "bbox": [
+                94.716796875,
+                569.1767578125,
+                668.84033203125,
+                590.013671875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "Tiêu chuẩn cấp phát thiết bị: [SHN_2024] TIÊU CHUẨN CẤP THIẾT BỊ 2024 .docx",
+            "content_raw": "",
+            "reading_order": "page_0_10",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 11,
+            "label": "SectionHeader",
+            "bbox": [
+                93.6492919921875,
+                610.30224609375,
+                351.30615234375,
+                632.23583984375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "3.Quy trình cấp phát, thu hồi thiết bị:",
+            "content_raw": "",
+            "reading_order": "page_0_11",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 12,
+            "label": "SectionHeader",
+            "bbox": [
+                95.687255859375,
+                632.23583984375,
+                314.622802734375,
+                653.07275390625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "3.1 Quy trình cấp phát thiết bị:",
+            "content_raw": "",
+            "reading_order": "page_0_12",
+            "page_no": 0,
+            "next_id": 13
+        },
+        {
+            "id": 13,
+            "label": "ListItem",
+            "bbox": [
+                118.39599609375,
+                653.07275390625,
+                638.9501953125,
+                673.90966796875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Nhân viên mới: GA cấp phát máy theo Tiêu chuẩn thiết bị vào ngày onboard",
+            "content_raw": "",
+            "reading_order": "page_0_13",
+            "page_no": 0,
+            "next_id": 14
+        },
+        {
+            "id": 14,
+            "label": "ListItem",
+            "bbox": [
+                118.39599609375,
+                672.81298828125,
+                673.88671875,
+                711.19677734375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Nhân viên nghỉ sinh/ không lương comeback: Nhân viên tạo request, GA cấp máy theo tiêu chuẩn/ dựa vào request",
+            "content_raw": "",
+            "reading_order": "page_0_14",
+            "page_no": 0,
+            "next_id": 15
+        },
+        {
+            "id": 15,
+            "label": "ListItem",
+            "bbox": [
+                118.590087890625,
+                707.90673828125,
+                580.72265625,
+                728.74365234375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Đối với trường hợp cần sử dụng thêm thiết bị để phục vụ công việc:",
+            "content_raw": "",
+            "reading_order": "page_0_15",
+            "page_no": 0,
+            "next_id": 16
+        },
+        {
+            "id": 16,
+            "label": "ListItem",
+            "bbox": [
+                119.94873046875,
+                727.64697265625,
+                701.44775390625,
+                789.06103515625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "● Nhân viên có yêu cầu cấp phát thiết bị, tài sản phục vụ công việc, cần tạo yêu cầu thiết bị, tài sản trên hệ thống ASSET. Yêu cầu sau khi tạo sẽ được chuyển tiếp lên các cấp quản lý.",
+            "content_raw": "",
+            "reading_order": "page_0_16",
+            "page_no": 0,
+            "next_id": 17
+        },
+        {
+            "id": 17,
+            "label": "ListItem",
+            "bbox": [
+                120.531005859375,
+                789.609375,
+                701.8359375,
+                917.9208984375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "● Sau khi được Trưởng ban và Trưởng phòng phê duyệt, yêu cầu sẽ được chuyển tới FCOV Unit (Người phụ trách, Trưởng phòng Hành chính, Trưởng ban Vận hành hoạt động nền tảng doanh nghiệp). Trưởng ban Vận hành hoạt động nền tảng doanh nghiệp (Ms. NgocNTM) ở bước phê duyệt cuối sẽ xem xét và chuyển các yêu cầu đó tới người phụ trách tương ứng. Sau khi yêu cầu được Ms. NgocNTM xác nhận, người phụ trách sẽ tiến hành xử lý cấp phát",
+            "content_raw": "",
+            "reading_order": "page_0_17",
+            "page_no": 0,
+            "next_id": 18
+        },
+        {
+            "id": 18,
+            "label": "ListItem",
+            "bbox": [
+                119.560546875,
+                917.37255859375,
+                700.283203125,
+                959.04638671875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "● Nhân viên nhận thiết bị và ký nhận tại khu vực làm việc của người phụ trách quản lý thiết bị",
+            "content_raw": "",
+            "reading_order": "page_0_18",
+            "page_no": 0,
+            "next_id": null
+        },
+        {
+            "id": 19,
+            "label": "SectionHeader",
+            "bbox": [
+                99.4720458984375,
+                979.88330078125,
+                308.60595703125,
+                1001.81689453125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "3.2. Quy trình thu hồi thiết bị:",
+            "content_raw": "",
+            "reading_order": "page_0_19",
+            "page_no": 0,
+            "next_id": 20
+        },
+        {
+            "id": 20,
+            "label": "ListItem",
+            "bbox": [
+                120.3369140625,
+                95.5482177734375,
+                694.072265625,
+                133.3836669921875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Nhân viên nghỉ việc/ thai sản/ không lương bàn giao toàn bộ thiết bị làm việc, thẻ xe, thẻ nhân viên muộn nhất vào ngày làm việc cuối cùng tại Sun*",
+            "content_raw": "",
+            "reading_order": "page_1_0",
+            "page_no": 1,
+            "next_id": 21
+        },
+        {
+            "id": 21,
+            "label": "ListItem",
+            "bbox": [
+                120.142822265625,
+                132.62969970703125,
+                673.1103515625,
+                170.53369140625
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Trường hợp nghỉ thai sản/ không lương muốn giữ lại thiết bị phải tạo Request trên Asset và được PSM/UM xác nhận",
+            "content_raw": "",
+            "reading_order": "page_1_1",
+            "page_no": 1,
+            "next_id": 22
+        },
+        {
+            "id": 22,
+            "label": "ListItem",
+            "bbox": [
+                120.3369140625,
+                169.43701171875,
+                680.8740234375,
+                206.72412109375
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "- Với những thiết bị nhân viên không có nhu cầu sử dụng sẽ trả thiết bị và ký trả trực tiếp tại khu vực làm việc của người phụ trách quản lý thiết bị",
+            "content_raw": "",
+            "reading_order": "page_1_2",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 23,
+            "label": "SectionHeader",
+            "bbox": [
+                87.7294921875,
+                222.2147216796875,
+                487.94677734375,
+                244.1483154296875
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "II. NỘI DUNG ĐĂNG KÝ VĂN PHÒNG PHẨM (VPP)",
+            "content_raw": "",
+            "reading_order": "page_1_3",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 24,
+            "label": "ListItem",
+            "bbox": [
+                118.39599609375,
+                242.2291259765625,
+                241.06201171875,
+                261.4210205078125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "1. Người phụ trách:",
+            "content_raw": "",
+            "reading_order": "page_1_4",
+            "page_no": 1,
+            "next_id": null
+        },
+        {
+            "id": 25,
+            "label": "Text",
+            "bbox": [
+                145.2777099609375,
+                260.3243408203125,
+                536.4697265625,
+                390.143798828125
+            ],
+            "confidence": 1.0,
+            "cells": [],
+            "content_text": "1.1 Văn phòng Hà Nội\nVõ Nguyệt Anh (vo.nguyet.anh@sun-asterisk.com)\n1.2 Văn phòng Đà Nẵng\nNguyễn Thị Thiên Ân B (nguyen.thi.thien.an-b@sun-asterisk.com)\n1.3 Văn phòng Hồ Chí Minh\nHuỳnh Ngọc Thảo Vy (huynh.ngoc.thao.vy@sun-asterisk.com)",
+            "content_raw": "",
+            "reading_order": "page_1_5",
+            "page_no": 1,
+            "next_id": null
+        }
+    ]
+}
